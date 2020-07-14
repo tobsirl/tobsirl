@@ -1,4 +1,6 @@
-### Hi there 👋
+![Github Banner](https://user-images.githubusercontent.com/25591390/87433865-b993b500-c5e1-11ea-94f8-de2ff6755a00.jpg)
+
+### Graduate with M.Sc. in Computing (Enterprise System Software) from Waterford Institute of Technology
 
 <!--
 **tobsirl/tobsirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
