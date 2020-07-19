@@ -1,11 +1,9 @@
 ### Graduate with M.Sc. in Computing (Enterprise System Software) from Waterford Institute of Technology
 
 #### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
-#### Recently Certified as a AWS Certified Cloud Practitioner (Feb 2020) ☁️
+#### Recently Certified as a AWS Certified Cloud Practitioner ([Feb 2020][ccp]) ☁️
 #### Currently studying for AWS Certified Developer - Associate 📖
 ![AWS-CloudPractitioner](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png)
-
-[Feb 2020][ccp]
 
 🧠 Learning [TypeScript][typescript] and [GraphQL][graphql]  
 💜 Loving [React][react], [Gatsby][gatsby], [Node][node]
