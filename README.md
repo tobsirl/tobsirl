@@ -3,10 +3,10 @@
 #### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
 #### Recently Certified as a AWS Certified Cloud Practitioner (Feb 2020) ☁️
 #### Currently studying for AWS Certified Developer - Associate 📖
-![AWS-CloudPractitioner](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png)
+![https://www.youracclaim.com/badges/74e0fb6f-61e7-4952-a0f3-020fe2ffbc05/public_url](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png)
 
-🧠 learning [TypeScript][typescript] and [GraphQL][graphql]  
-💜 loving [React][react], [Gatsby][gatsby], [Node][node]
+🧠 Learning [TypeScript][typescript] and [GraphQL][graphql]  
+💜 Loving [React][react], [Gatsby][gatsby], [Node][node]
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
