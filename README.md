@@ -3,7 +3,8 @@
 #### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
 #### Recently Certified as a AWS Certified Cloud Practitioner (Feb 2020) ☁️
 #### Currently studying for AWS Certified Developer - Associate 📖
-![https://www.youracclaim.com/badges/74e0fb6f-61e7-4952-a0f3-020fe2ffbc05/public_url](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png)
+![AWS-CloudPractitioner](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png)
+[Feb 2020][ccp]
 
 🧠 Learning [TypeScript][typescript] and [GraphQL][graphql]  
 💜 Loving [React][react], [Gatsby][gatsby], [Node][node]
@@ -20,6 +21,7 @@
 [typescript]: https://www.typescriptlang.org/
 [graphql]: https://graphql.org/
 [node]: https://nodejs.org/en/
+[ccp]: https://www.youracclaim.com/badges/74e0fb6f-61e7-4952-a0f3-020fe2ffbc05/public_url
 
 <!--
 **tobsirl/tobsirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
