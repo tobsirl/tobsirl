@@ -3,12 +3,13 @@
 #### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
 #### Recently Certified as a AWS Certified Cloud Practitioner (Feb 2020) ☁️
 #### Currently studying for AWS Certified Developer - Associate 📖
+![AWS-CloudPractitioner](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png)
 
 🧠 learning [TypeScript][typescript] and [GraphQL][graphql]  
 💜 loving [React][react], [Gatsby][gatsby], [Node][node]
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
+🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
 
 [react]: http://reactjs.org
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte] and [tailwind][tailwind]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+- 👨🏼‍💻 building [murphee][murphee]
+🧠 learning [svelte][svelte] and [tailwind][tailwind]
+💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]
 -->
