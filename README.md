@@ -8,9 +8,12 @@
 🧠 Learning [TypeScript][typescript] and [GraphQL][graphql]  
 💜 Loving [React][react], [Gatsby][gatsby], [Node][node]
 
-🏡 [website][website] **|**
-🐦 [twitter][twitter] **|**
-👔 [linkedin][linkedin]
+
+[<img align="left" alt="www.paultobinportfolio.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tobsirl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="www.linkedin.com/in/paul-tobin-irl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
@@ -40,3 +43,7 @@ Here are some ideas to get you started:
 🧠 learning [svelte][svelte] and [tailwind][tailwind]
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]
 -->
+
+<!-- 🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
+👔 [linkedin][linkedin] -->
