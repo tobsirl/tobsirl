@@ -6,6 +6,9 @@
 
 [<img align="left" alt="CPP Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
 
+---
+
+<br />
 <br />
 
 ### Languages and Tools:
@@ -25,7 +28,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
-
 
 ### Connect with me:
 [<img align="left" alt="www.paultobinportfolio.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
