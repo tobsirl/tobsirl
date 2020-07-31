@@ -6,7 +6,6 @@
 
 [<img align="left" alt="CPP Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
 
----
 
 <br />
 <br />
