@@ -4,8 +4,8 @@
 #### Currently learning TypeScript 📖
 #### Certified as a AWS Cloud Practitioner & AWS Developer – Associate ☁️
 
-[<img align="left" alt="CPP Badge" width="100px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
-[<img align="left" alt="DVA Badge" width="100px" src="https://user-images.githubusercontent.com/25591390/97856380-1a134300-1cf4-11eb-8d24-387224e7e094.png" />][dva]
+[<img align="left" alt="CPP Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
+[<img align="left" alt="DVA Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/97856380-1a134300-1cf4-11eb-8d24-387224e7e094.png" />][dva]
 
 
 
