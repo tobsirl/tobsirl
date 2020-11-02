@@ -1,7 +1,7 @@
 ### Graduate with M.Sc. in Computing (Enterprise System Software) from Waterford Institute of Technology
 
 #### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
-<!-- #### Recently Certified as a AWS Certified Cloud Practitioner ([Oct 2020][ccp]) ☁️ -->
+#### Certified as a AWS Cloud Practitioner & AWS Developer – Associate ☁️
 #### Currently learning TypeScript 📖
 
 [<img align="left" alt="CPP Badge" width="85px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
@@ -86,4 +86,6 @@ Here are some ideas to get you started:
 
 <!-- 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
-👔 [linkedin][linkedin] -->
+👔 [linkedin][linkedin]
+([Oct 2020][ccp])
+ -->
