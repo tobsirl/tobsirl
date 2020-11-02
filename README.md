@@ -5,6 +5,7 @@
 #### Currently studying for AWS Certified Developer - Associate 📖
 
 [<img align="left" alt="CPP Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
+[<img align="left" alt="DVA Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/97856380-1a134300-1cf4-11eb-8d24-387224e7e094.png" />][dva]
 
 
 
@@ -57,6 +58,7 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [ccp]: https://www.youracclaim.com/badges/74e0fb6f-61e7-4952-a0f3-020fe2ffbc05/public_url
+[dva]: https://www.youracclaim.com/badges/91819f65-18b1-48c5-a606-39c8dfd45566/public_url
 
 
 <!-- ![AWS-CloudPractitioner](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png) -->
