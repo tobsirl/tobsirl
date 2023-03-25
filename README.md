@@ -1,19 +1,20 @@
-### Graduate with M.Sc. in Computing (Enterprise System Software) from Waterford Institute of Technology
+### Software Engineer at Kargo Commerce
 
 #### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
+
 #### Currently learning TypeScript 📖
+
 #### Certified as a AWS Cloud Practitioner & AWS Developer – Associate ☁️
 
 [<img align="left" alt="CPP Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png" />][ccp]
 [<img align="left" alt="DVA Badge" width="75px" src="https://user-images.githubusercontent.com/25591390/97856380-1a134300-1cf4-11eb-8d24-387224e7e094.png" />][dva]
 
-
-
 <br />
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][code]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
@@ -32,13 +33,17 @@
 
 <br />
 
-### Connect with me:
+### Connect with me
+
 [<img align="left" alt="www.paultobinportfolio.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tobsirl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="www.linkedin.com/in/paul-tobin-irl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white" />][linkedin]
 <br />
 ---
-<img align="left" alt="tobsilr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tobsirl&hide=contribs,issues&show_icons=true&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tobsirl&theme=dark)](https://git.io/streak-stats)
+
+<!-- <img align="left" alt="tobsilr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tobsirl&hide=contribs,issues&show_icons=true&hide_border=true" /> -->
 
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
@@ -58,10 +63,8 @@
 [mongodb]: https://www.mongodb.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[typescript]: https://www.typescriptlang.org/
 [ccp]: https://www.youracclaim.com/badges/74e0fb6f-61e7-4952-a0f3-020fe2ffbc05/public_url
 [dva]: https://www.youracclaim.com/badges/91819f65-18b1-48c5-a606-39c8dfd45566/public_url
-
 
 <!-- ![AWS-CloudPractitioner](https://user-images.githubusercontent.com/25591390/87874379-49aa7380-c9c1-11ea-96da-a5305afdae36.png) -->
 <!--
