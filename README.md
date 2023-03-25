@@ -41,7 +41,7 @@
 <br />
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tobsirl&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tobsirl&theme=city-lights)](https://git.io/streak-stats)
 
 <!-- <img align="left" alt="tobsilr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tobsirl&hide=contribs,issues&show_icons=true&hide_border=true" /> -->
 
