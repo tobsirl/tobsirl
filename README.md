@@ -1,6 +1,8 @@
 ### Software Engineer at Kargo Commerce
 
-#### I’m self-motivated and enjoy learning new technologies, such as GraphQL and React hooks
+#### I'm a passionate Software Engineer with a deep interest in automation, cloud computing, and DevOps.
+
+#### Driven by curiosity and a love for learning, I thrive on exploring new technologies like Kubernetes, ArgoCD, GitHub Actions, Prometheus, and Grafana.
 
 #### Currently learning TypeScript 📖
 
@@ -39,6 +41,7 @@
 [<img align="left" alt="tobsirl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="www.linkedin.com/in/paul-tobin-irl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white" />][linkedin]
 <br />
+
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tobsirl&theme=city-lights)](https://git.io/streak-stats)
@@ -85,7 +88,7 @@ Here are some ideas to get you started:
 🧠 learning [svelte][svelte] and [tailwind][tailwind]
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]
 
-🧠 Learning [TypeScript][typescript] and [GraphQL][graphql]  
+🧠 Learning [TypeScript][typescript] and [GraphQL][graphql]
 💜 Loving [React][react], [Gatsby][gatsby], [Node][node]
 -->
 
