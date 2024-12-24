@@ -4,7 +4,7 @@
 
 #### Driven by curiosity and a love for learning, I thrive on exploring new technologies like Kubernetes, ArgoCD, GitHub Actions, Prometheus, and Grafana.
 
-#### Currently learning TypeScript 📖
+#### Currently learning all things DevOps 📖
 
 #### Certified as a AWS Cloud Practitioner & AWS Developer – Associate ☁️
 
