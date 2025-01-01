@@ -15,6 +15,16 @@
 <br />
 <br />
 
+### Techical Skills
+
+- Version Control: Proficient in Git and GitHub for code collaboration and version control.
+- CI/CD: Experience with GitHub Actions for automating build and deployment processes.
+- Containerization: Hands-on experience with Docker to create, manage, and deploy containers. Work with Kubernetes daily for container orchestration
+- Infrastructure as Code (IaC): Understanding of tools like AWS CDK to manage infrastructure programmatically.
+- Cloud Platforms: Extensive knowledge of AWS Cloud services, with hands-on experience in managing compute, storage, and networking resources.
+- Observability: Knowledge of monitoring tools like Prometheus, Grafana, and Otel.
+- Scripting: Basic proficiency in scripting languages such as Python, Bash, or PowerShell for automation.
+
 ### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][code]
